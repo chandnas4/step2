@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libAquariumLib.a CMakeFiles/AquariumLib.dir/MainFrame.cpp.o CMakeFiles/AquariumLib.dir/AquariumView.cpp.o CMakeFiles/AquariumLib.dir/Aquarium.cpp.o CMakeFiles/AquariumLib.dir/Item.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libAquariumLib.a
